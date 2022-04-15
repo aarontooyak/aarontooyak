@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aarontooyak
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning Front-end technologies (HTML/CSS/JS/React)
 - 💞️ I’m looking to collaborate on Open Source SaaS projects
 - 📫 How to reach me tooyak.aaron@gmail.com
