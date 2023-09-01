@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aarontooyak
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning Front-end technologies (JS/React)
+- 👀 I’m interested in Fullstack Development (MERN, Next, Sveltekit)
+- 🌱 I’m currently learning AI technologies (LangChain/LLMs)
 - 💞️ I’m looking to collaborate on Open Source SaaS projects
 - 📫 How to reach me tooyak.aaron@gmail.com
 
